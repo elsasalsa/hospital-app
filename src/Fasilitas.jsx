@@ -66,22 +66,22 @@ function Fasilitas() {
 
             <div className="section" style={{ marginTop: "50px" }}>
                 <h3><i>Fasilitas</i></h3>
-                <ol>
+                <ul>
                     <li>Unit Gawat Darurat 24 jam dengan penanganan kasus darurat jantung dan stroke.</li>
                     <li>Ruang operasi modern dengan standar internasional</li>
                     <li>Laboratorium diagnostik lengkap.</li>
                     <li>Fasilitas rawat inap nyaman dengan berbagai kelas.</li>
                     <li>Klinik rawat jalan dengan layanan konsultasi spesialis.</li>
-                </ol>
+                </ul>
             </div>
 
             <div className="section" style={{ marginTop: "30px" }}>
                 <h3><i>Keunggulan</i></h3>
-                <ol>
+                <ul>
                     <li>Mengutamakan teknologi medis terkini seperti MRI, CT Scan, dan EKG untuk diagnosa cepat dan akurat.</li>
                     <li>Tim dokter spesialis jantung dan saraf berpengalaman lebih dari 10 tahun.</li>
                     <li>Program edukasi kesehatan untuk masyarakat seputar pencegahan penyakit jantung dan stroke.</li>
-                </ol>
+                </ul>
             </div>
 
             <div className="section" style={{ marginTop: "50px" }}>
