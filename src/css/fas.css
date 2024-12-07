@@ -1,0 +1,14 @@
+.room-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between; /* Atau space-evenly, tergantung kebutuhan */
+}
+
+.room-container .image {
+    flex: 1;
+}
+
+.room-container .description {
+    flex: 2;
+    padding-left: 20px; 
+}

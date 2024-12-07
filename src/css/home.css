@@ -1,0 +1,24 @@
+.container {
+    margin: 50px;  
+    width: calc(100% - 100px); 
+    justify-content: center;
+}
+
+.section {
+    margin-top: 50px;
+}
+
+
+h3 {
+    color: #28a745;
+    margin-bottom: 10px;
+}
+
+h2 {
+    text-align: center;
+    margin-top: 50px;
+}
+
+ul, ol {
+    margin-left: 20px;
+}
